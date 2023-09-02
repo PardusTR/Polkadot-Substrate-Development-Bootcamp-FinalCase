@@ -86,4 +86,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for your interest in the Web3 Parduscuk project! For questions or suggestions, reach out to us.
+
 Enjoy on the blockchain! 🚀
