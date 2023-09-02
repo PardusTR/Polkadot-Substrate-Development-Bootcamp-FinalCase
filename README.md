@@ -60,7 +60,7 @@ Follow these steps to set up the project locally and start participating in Web3
 
 ## Testing
 
-![Alt text](Goruntu_119-1.png)
+![Alt text](Goruntu_119_1.png)
 
 ## Frontend
 
